@@ -1,6 +1,9 @@
 # Visit.Commodity.Calculation
 Purpus of this sample application is to fix below sample code issues
 
+![image](https://user-images.githubusercontent.com/86515501/202269211-192b1839-ee2c-44d7-bc56-0eba34615e7b.png)
+
+
 ==========================================TASK==============================================================================
 //The focus should be on clean, simple and easy to read code 
 //Everything but the public interface may be changed
